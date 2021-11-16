@@ -3,3 +3,4 @@ David Vega tiene 33 años y nacio en Quito, viviendo en todo el mundo
 Hoy hablaremos de su Historia
 
 En camara parece alto pero no
+Hoy aprendi git
